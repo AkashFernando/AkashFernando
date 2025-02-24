@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Akash Fernando</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Fullstack developer from Srilanka</h3>
 
 - 💬 Ask me about **Java , Java Script and Angular**
 
